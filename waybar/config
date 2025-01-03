@@ -12,18 +12,23 @@
     "modules-right": ["pulseaudio", "network", "cpu", "memory", "battery", "tray", "clock"],
     "sway/workspaces": {
         "disable-scroll": true,
-        "all-outputs": false,
+        "all-outputs": true,
         "format": "{icon}",
         "format-icons": {
-            "1:web": "",
-            "2:code": "",
-            "3:term": "",
+            "1": "",
+            "2": "",
+            "3": "",
             "4:work": "",
             "5:music": "",
             "6:docs": "󰈙",
             "urgent": "",
             "focused": "",
             "default": ""
+        },
+        "persistent-workspaces": {
+           "1": [],
+           "2": [],
+           "3": []
         }
     },
     "sway/mode": {
