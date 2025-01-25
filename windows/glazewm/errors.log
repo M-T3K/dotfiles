@@ -1,0 +1,2 @@
+[2m2025-01-25T22:04:04.041289Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'C:\\Program Files\\Alacritty'.\n\nError: Program path is not valid for command 'C:\\Program Files\\Alacritty'."
+[2m2025-01-25T22:04:30.680329Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'C:\\Program Files\\Alacritty'.\n\nError: Program path is not valid for command 'C:\\Program Files\\Alacritty'."
